@@ -1,0 +1,6 @@
+@Api.MovimientosLlantas_HostAddress = http://localhost:5079
+
+GET {{Api.MovimientosLlantas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

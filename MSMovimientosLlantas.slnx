@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Api.MovimientosLlantas/Api.MovimientosLlantas.csproj" />
+  <Project Path="Core.MovimientosLlantas/Core.MovimientosLlantas.csproj" />
+  <Project Path="Infrastructure.MovimientosLlantas/Infrastructure.MovimientosLlantas.csproj" />
+</Solution>
